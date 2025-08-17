@@ -1,4 +1,4 @@
-# FastAPI-Based-Blog-Management-System# FastAPI-Based Blog Management System
+# FastAPI-Based-Blog-Management-System
 
 A RESTful blog management API built with FastAPI, SQLAlchemy, Alembic, and PostgreSQL. It supports user authentication, post creation, voting, and more.
 
